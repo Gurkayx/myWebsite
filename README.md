@@ -1,8 +1,16 @@
-# React + Vite
+# a personal website made using react and tailwindcss
+a personal website made using react , tailwindcss and daisyUi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Özellikler
+- Kişinin github profilini dinamik olarak alıp gösterme
+- Kişinin github repolarını dinamik olarak listeleme
+- daisyUi ile çoklu tema desteği
+- Mobil duyarlı arayüz
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Kurulum
+Projeyi kurmak için şu adımları izleyin:
+```bash
+git clone https://github.com/Gurkayx/myWebsite.git personelwebsite
+cd personelwebsite
+npm install && npm run dev
+npm run build (build almak istediğinizde kullanın)
