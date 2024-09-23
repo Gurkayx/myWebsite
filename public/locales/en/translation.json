@@ -1,0 +1,11 @@
+{
+  "w1": "Welcome",
+  "w2": "Hi i'm <span class='text-primary'>Gürkay</span>",
+  "w3":"<span class='text-primary'>Web</span> and <span class='text-primary'>Mobile</span> developper ",
+  "githubwidgettitle":"My github profile",
+  "projects":"My projects",
+  "copytoclipboard":"Copy to clipboard",
+  "followmesocialmedia":"Follow me on social media",
+  "blogwidgettitle":"Take a look at my blog",
+  "comingsoon":"A brand new super blog will be here soon..."
+}
